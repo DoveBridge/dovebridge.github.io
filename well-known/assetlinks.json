@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.dovebridge.snakecastles",
+      "sha256_cert_fingerprints": [
+        "5F:A7:F1:BE:3C:82:DC:CE:2C:F5:CD:EB:1F:CF:0D:1E:40:22:76:0B:50:EE:52:0B:2A:74:9F:EC:93:9D:B8:AD"
+      ]
+    }
+  }
+]
