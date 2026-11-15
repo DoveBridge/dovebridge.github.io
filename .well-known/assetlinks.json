@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "io.github.dovebridge.snakecastles",
       "sha256_cert_fingerprints": [
-        "5F:A7:F1:BE:3C:82:DC:CE:2C:F5:CD:EB:1F:CF:0D:1E:40:22:76:0B:50:EE:52:0B:2A:74:9F:EC:93:9D:B8:AD"
+        "5F:A7:F1:BE:3C:82:DC:CE:2C:F5:CD:EB:1F:CF:0D:1E:40:22:76:0B:50:EE:52:0B:2A:74:9F:EC:93:9D:B8:AD",
+        "18:4B:76:28:CB:C0:FE:06:52:AC:A2:84:32:E3:A6:A4:99:8F:07:7A:F6:7D:04:A6:F3:BE:DF:CB:74:6A:4C:A4"
       ]
     }
   }
